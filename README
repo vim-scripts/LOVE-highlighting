@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5298
+
+Syntax highlighting for LOVE (http://love2d.org) commands. 
+You can auto-generate it yourself from this repo: https://github.com/davisdude/vim-love-docs
